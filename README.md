@@ -1,8 +1,6 @@
 # Movement-recognition-DS-project
 # Movement Recognition Data Science Project
 
-![Movement Recognition](https://github.com/TianaLina/Movement-recognition-DS-project/blob/main/images/movement_recognition_banner.png)
-
 ## Overview
 
 This project focuses on recognizing different types of human movements using machine learning techniques. The goal is to accurately classify movements based on sensor data, which has numerous applications in areas such as health monitoring, sports analytics, and human-computer interaction.
