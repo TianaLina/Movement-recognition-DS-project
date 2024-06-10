@@ -1,4 +1,3 @@
-# Movement-recognition-DS-project
 # Movement Recognition Data Science Project
 
 ## Overview
